@@ -1,0 +1,57 @@
+header {
+  width: 100%;
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: left;
+}
+
+ul {
+  text-align: right;
+  color: #ffffff;
+}
+
+/* List items in navigation bar */
+li {
+  /* TODO: Add your code here */
+  display : inline;
+  list-style-type: none;
+  font-size: 40px;
+}
+
+/* Boxes */
+img {
+  /* TODO: Add your code here */
+  margin: 0 auto;
+  display: inline-block;
+}
+
+#item-1 {
+  background-color: #e0115f;
+  display: inline;
+}
+
+#item-2 {
+  background-color: #0000ff;
+  display: inline;
+}
+#item-3 {
+  background-color: #999900;
+  display:inline;
+}
+
+/* Box 3 */
+#image-3 {
+  /* TODO: Add your code here */
+  display: inline-block;
+  margin: 0 auto;
+  
+}
+.section-with-centered-boxes {
+  width: 100%;
+  text-align:center;
+}
+.section-with-centered-boxes img{
+  display:block;
+}

@@ -1,0 +1,45 @@
+p{
+  font-size:30px;
+  font-weight:bold;
+}
+
+p.yellow-text{
+  color:yellow;
+}
+
+p.white-text{
+  color:white;
+}
+
+p.orange-text{
+  color:orange;
+}
+
+.section-width-30percent{
+  width:30%;
+}
+
+.section-width-100percent{
+  width:100%;
+}
+
+
+.section-height-200px{
+  height:200px;
+}
+
+
+
+.section-purple-bgnd{
+  background-color:purple;
+}
+
+
+.section-blue-bgnd{
+  background-color:blue;
+}
+
+.section-black-bgnd{
+  background-color:black;
+}
+
